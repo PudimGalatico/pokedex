@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,100&display=swap');
+
+main{
+    background-color: #dadfe8;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pokedex{
+    display: flex;
+    gap: 30px;
+    padding: 30px 0;
+}
